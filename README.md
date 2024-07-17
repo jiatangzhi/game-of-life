@@ -11,11 +11,6 @@ This project implements Conway's Game of Life, a cellular automaton devised by t
 - **`evolution`**: Function that generates successive generations of the Game of Life based on the rules of the game.
 - **`main`**: The main function that prints the visual representation of the Game of Life for the initial glider pattern.
 
-## Example Output
-Here is an example output of the Game of Life with the initial glider pattern:
-
-![Game of Life Output](./output.png)
-
 ## How to Run
 
 ### Prerequisites
@@ -31,3 +26,8 @@ Make sure you have the Glasgow Haskell Compiler (GHC) installed on your system. 
    ```bash
    ./GameOfLife.hs
    ```
+   
+## Example Output
+Here is an example output of the Game of Life with the initial glider pattern:
+
+![Game of Life Output](./output.png)
